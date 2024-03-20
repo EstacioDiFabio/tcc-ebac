@@ -1,2 +1,4 @@
 ui/node_modules/*
 ui/package-lock.json
+api/node_modules/*
+api/package-lock.json
